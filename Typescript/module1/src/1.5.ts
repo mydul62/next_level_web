@@ -1,11 +1,12 @@
 // Refarence type --->object
 
-const user:{
-firstName :string;
-lastName:string;
+const User:{
+ firstName :"mahim";
+lastName?:string;
 
 } = {
  firstName : 'mahim',
  lastName:'islam'
 
 }
+
